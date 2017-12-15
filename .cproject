@@ -88,6 +88,14 @@
                         </toolChain>
                         					
                     </folderInfo>
+                    					
+                    <sourceEntries>
+                        						
+                        <entry excluding="doc" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+                        						
+                        <entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="doc"/>
+                        					
+                    </sourceEntries>
                     				
                 </configuration>
                 			
@@ -131,7 +139,7 @@
                             							
                             <option id="cdt.managedbuild.option.gnu.cross.prefix.39436590" name="Prefix" superClass="cdt.managedbuild.option.gnu.cross.prefix" value="arm-linux-gnueabi-" valueType="string"/>
                             							
-                            <option id="cdt.managedbuild.option.gnu.cross.path.1360018892" name="Path" superClass="cdt.managedbuild.option.gnu.cross.path" value="D:\cwy\win_app_env\gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabi\bin" valueType="string"/>
+                            <option id="cdt.managedbuild.option.gnu.cross.path.1360018892" name="Path" superClass="cdt.managedbuild.option.gnu.cross.path" value="D:\cwy\win_app_env\gcc-linaro-4.9.4-2017.01-i686-mingw32_arm-linux-gnueabi\bin" valueType="string"/>
                             							
                             <targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.ELF" id="cdt.managedbuild.targetPlatform.gnu.cross.276673876" isAbstract="false" osList="all" superClass="cdt.managedbuild.targetPlatform.gnu.cross"/>
                             							
@@ -182,6 +190,14 @@
                         </toolChain>
                         					
                     </folderInfo>
+                    					
+                    <sourceEntries>
+                        						
+                        <entry excluding="doc" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+                        						
+                        <entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="doc"/>
+                        					
+                    </sourceEntries>
                     				
                 </configuration>
                 			
